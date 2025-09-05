@@ -17,6 +17,6 @@ The Text Explainer application allows users to input a piece of text and its con
 
 **Prerequisites**
 
-- Python 3.9+
+- Python 3.11+
 - Redis server
 - Git (for version control)
