@@ -1,6 +1,7 @@
 import hashlib
 import re
 from typing import Optional
+from enum import Enum
 
 def get_text_hash(selected_text: str, context: Optional[str], locale: str, simplify: bool) -> str:
     """Generate a hash of selected_text, context, locale, and simplify flag."""
